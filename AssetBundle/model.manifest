@@ -1,0 +1,137 @@
+ManifestFileVersion: 0
+CRC: 1146485620
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bba3e3ce68043c91108dca890a47085
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5390b2d5295782ebf5cce794b98c32c3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 860a2f4c831196747996936d46d65574, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Arts/Prefabs/SM_Prop_Anchor_01.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_Edge_01.prefab
+- Assets/Arts/Prefabs/SM_Veh_Barge_Tray_Dirt_01.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_03.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_Corner_01.prefab
+- Assets/Prefabs/Car2.0/Car_Level_2.prefab
+- Assets/Prefabs/Car2.0/Car_Level_7.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Rail_Straight_02.prefab
+- Assets/Arts/Prefabs/SM_Prop_Container_Large_Stack_03.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Rail_01.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_Square_02.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Pavement_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Container_Small_Stack_02.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_Edge_Corner_02.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_Yellow_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Tyre_03.prefab
+- Assets/Arts/Prefabs/SM_Prop_Gantry_Round_01.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_01.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_Small_End_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Container_Large_Stack_01.prefab
+- Assets/Arts/Prefabs/SM_Veh_StraddleCarrier_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Curb_Straight_02.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Concrete_02.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_Edge_Corner_03.prefab
+- Assets/Arts/Prefabs/SM_Veh_ContainerCrane_01.prefab
+- Assets/Prefabs/Car2.0/Car_Level_8.prefab
+- Assets/Arts/Prefabs/SM_Env_SeaWall_Blocks_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Fence_Wire_Single_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Gate_03.prefab
+- Assets/Prefabs/Car2.0/Car_Level_4.prefab
+- Assets/Arts/Prefabs/SM_Bld_SingleGarage_01.prefab
+- Assets/Prefabs/Car2.0/Car_Level_1.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_Small_02.prefab
+- Assets/Prefabs/Car2.0/Car_Level_10.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Tyre_02.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_Yellow_02.prefab
+- Assets/Arts/Prefabs/SM_Prop_Container_Stack_06.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Booth_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Container_Stack_04.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_TyreMark_04.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Tyre_StackC_04.prefab
+- Assets/Arts/Prefabs/SM_Prop_Container_Stack_03.prefab
+- Assets/Arts/Prefabs/SM_Prop_Fence_Wire_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Rail_D_Bend_In_02.prefab
+- Assets/Arts/Prefabs/SM_Env_SeaWall_Block_Single_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Container_Stack_01.prefab
+- Assets/Arts/Prefabs/SM_Env_BoatRamp_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Ramp_Metal.prefab
+- Assets/Arts/Prefabs/SM_Env_Dirt_Pile_02.prefab
+- Assets/Arts/Prefabs/SM_Env_SeaWall_Blocks_02.prefab
+- Assets/Prefabs/Car2.0/Car_Level_3.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_Square_01.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_End_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Concrete_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Ramp_Mesh_01.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_TyreMark_Straight_02.prefab
+- Assets/Arts/Prefabs/SM_Prop_Container_Stack_12.prefab
+- Assets/Arts/Prefabs/SM_Bld_RepairShop_Large_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Curb_Bend_In_03.prefab
+- Assets/Arts/Prefabs/SM_Prop_Container_Large_Stack_06.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Tyre_01.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_Yellow_03.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_02.prefab
+- Assets/Arts/Prefabs/SM_Bld_Crane_01.prefab
+- Assets/Arts/Prefabs/SM_Env_Dirt_Pile_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Tyre_Ring_01.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_TyreMark_03.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Container_Large_Stack_02.prefab
+- Assets/Arts/Prefabs/SM_Env_Silo_Grain_01.prefab
+- Assets/Arts/Prefabs/SM_Env_PortEdge_Corner_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Rail_D_Bend_04.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_TyreMark_Straight_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Rail_D_Straight_04.prefab
+- Assets/Prefabs/Car2.0/Car_Level_6.prefab
+- Assets/Arts/Prefabs/SM_Veh_Barge_Tray_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Cone_03.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Rail_D_Straight_03.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Curb_Bend_03.prefab
+- Assets/Arts/Prefabs/SM_Bld_Warehouse_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Container_Small_Stack_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Container_Small_Doors_01.prefab
+- Assets/Arts/Prefabs/SM_Env_PortEdge_01.prefab
+- Assets/Prefabs/Car2.0/Car_Level_5.prefab
+- Assets/Arts/Prefabs/SM_Bld_RepairShop_Medium_01.prefab
+- Assets/Arts/Prefabs/SM_Env_PortEdge_Angle_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Barrier_Rail_D_Bend_In_01.prefab
+- Assets/Prefabs/Car2.0/Car_Level_9.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_05.prefab
+- Assets/Arts/Prefabs/SM_Env_Ground_Lines_Edge_Corner_01.prefab
+- Assets/Arts/Prefabs/SM_Prop_Container_Large_Doors_01.prefab
+Dependencies: []
